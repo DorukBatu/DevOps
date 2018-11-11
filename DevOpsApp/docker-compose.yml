@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  devopsapp:
+    image: ${DOCKER_REGISTRY}devopsapp
+    build:
+      context: .\DevOpsApp
+      dockerfile: Dockerfile

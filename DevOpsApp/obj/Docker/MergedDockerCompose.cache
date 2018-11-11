@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  devopsapp:
+    build:
+      context: C:\DevOpsExample\DevOpsApp\DevOpsApp
+      dockerfile: Dockerfile
+    image: devopsapp
+    ports:
+    - target: 80
+version: '3.4'

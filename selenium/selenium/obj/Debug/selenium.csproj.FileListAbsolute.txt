@@ -1,0 +1,12 @@
+C:\DevOpsExample\selenium\selenium\bin\Debug\selenium.exe.config
+C:\DevOpsExample\selenium\selenium\bin\Debug\selenium.exe
+C:\DevOpsExample\selenium\selenium\bin\Debug\selenium.pdb
+C:\DevOpsExample\selenium\selenium\bin\Debug\WebDriver.dll
+C:\DevOpsExample\selenium\selenium\bin\Debug\WebDriver.Support.dll
+C:\DevOpsExample\selenium\selenium\bin\Debug\WebDriver.xml
+C:\DevOpsExample\selenium\selenium\bin\Debug\WebDriver.Support.xml
+C:\DevOpsExample\selenium\selenium\obj\Debug\selenium.csprojAssemblyReference.cache
+C:\DevOpsExample\selenium\selenium\obj\Debug\selenium.csproj.CoreCompileInputs.cache
+C:\DevOpsExample\selenium\selenium\obj\Debug\selenium.csproj.CopyComplete
+C:\DevOpsExample\selenium\selenium\obj\Debug\selenium.exe
+C:\DevOpsExample\selenium\selenium\obj\Debug\selenium.pdb
